@@ -53,7 +53,7 @@ A web-based Task Management System built with **PHP** and **MySQL**. This applic
         ```
 
 5.  **Run the Application:**
-    *   Open your browser and navigate to `http://localhost/Employee-Task-Management-System-using-PHP-and-MySQL-main/`.
+    *   Open your browser and navigate to `http://localhost/EWU_club_event_organizer`.
 
 ## 🔑 Default Login Credentials
 
@@ -95,3 +95,4 @@ Contributions, issues, and feature requests are welcome!
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
